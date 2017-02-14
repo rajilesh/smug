@@ -7,7 +7,7 @@ The Smug was designed for not to be installable, for simplicity. Is only a **She
 
 ## Clone Smug repository
 ```bash
-$ git clone https://github.com/cristiancmello/smug.git
+$ git clone https://github.com/rajilesh/smug.git
 ```
 
 ## Smug usage
